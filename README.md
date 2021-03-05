@@ -1,1 +1,1 @@
-# Personal-Webpage-static-site-generator
+#  Personal Tech Blog + Online Resume
