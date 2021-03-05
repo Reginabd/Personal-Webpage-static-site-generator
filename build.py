@@ -18,7 +18,7 @@ combined_html = top_html + middle_html + bottom_html
 
 print(combined_html)
 
-open('index.html', 'w+').write(combined_html)
+open('./docs/index.html', 'w+').write(combined_html)
 
 
 
@@ -39,7 +39,7 @@ combined_html = top_html + middle_html + bottom_html
 
 print(combined_html)
 
-open('about.html', 'w+').write(combined_html)
+open('./docs/about.html', 'w+').write(combined_html)
 
 
 # Reads in the top.html
@@ -58,7 +58,7 @@ combined_html = top_html + middle_html + bottom_html
 
 print(combined_html)
 
-open('content.html', 'w+').write(combined_html)
+open('./docs/content.html', 'w+').write(combined_html)
 
 
 
@@ -78,7 +78,7 @@ combined_html = top_html + middle_html + bottom_html
 
 print(combined_html)
 
-open('experience.html', 'w+').write(combined_html)
+open('./docs/experience.html', 'w+').write(combined_html)
 
 
 # Reads in the top.html
@@ -97,4 +97,4 @@ combined_html = top_html + middle_html + bottom_html
 
 print(combined_html)
 
-open('skills.html', 'w+').write(combined_html)
+open('./docs/skills.html', 'w+').write(combined_html)
